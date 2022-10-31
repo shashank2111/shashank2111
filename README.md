@@ -4,7 +4,7 @@
 
 ### Student Developer | Passionate Programming
 
-- 🔭 I’have worked on Spring Boot,Spring Jdbc, Node
+- 🔭 I’have worked on Spring Boot,Spring Jdbc, Node, Express, Pos
 - 🌱 I’m currently learning and exploring new technologies.
 - 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase, Blogging
 - 📫 How to reach me: [@Raven__2306][twitter]
@@ -45,6 +45,9 @@
 <!-- <img align="left" alt="Firebase"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> -->
 <!-- <img align="left" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /> -->
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  -->
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<!--  </a> -->
 <br />
 <br />

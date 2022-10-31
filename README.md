@@ -4,9 +4,8 @@
 
 ### Student Developer | Passionate Programming
 
-- 🔭 I’have worked on Spring Boot,Spring Jdbc, Node, Express, Pos
-- 🌱 I’m currently learning and exploring new technologies.
-- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase, Blogging
+- 🔭 I’have worked on Spring Boot,Spring Jdbc, NodeJS, ExpressJS, PostgreSQL, AWS 
+- 🌱 I’m currently learning and exploring new technologies in the domain of machine learning.
 - 📫 How to reach me: [@Raven__2306][twitter]
 
 <!-- ## 🤝 Connect with me:
